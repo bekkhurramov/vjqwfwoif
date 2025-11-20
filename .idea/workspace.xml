@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dddc534f-4e99-4b55-a039-a398476be4b0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/figma/img/arava.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/headerLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/headerSearch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/headerbutton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/image2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/image3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/image4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/imgFive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/imgFour.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/imgSex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/imgThere.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/junior.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/rasm1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/rasm2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/rasm3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/img/rasm4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/figma/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="35kOhwZrysptZM0UlvfB5TpDEfY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Dell/WebstormProjects/untitled8/figma/img",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\WebstormProjects\untitled8\figma\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\WebstormProjects\untitled8\figma" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-WS-251.26094.131" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dddc534f-4e99-4b55-a039-a398476be4b0" name="Changes" comment="" />
+      <created>1763650726112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763650726112</updated>
+      <workItem from="1763650727640" duration="10006000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
