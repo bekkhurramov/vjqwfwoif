@@ -43,7 +43,7 @@ function renderCourses() {
                 <h3 class="mt-3 font-semibold text-lg line-clamp-1">${course.title}</h3>
                 <p class="text-gray-500 text-sm">${course.teacher}</p>
                 <div class="flex items-center gap-2 mt-2 text-yellow-500 text-sm">
-                    ⭐ ${course.rating} 
+                     ${course.rating} 
                     <span class="text-gray-500">(${course.students})</span>
                 </div>
                 <div class="mt-3 flex items-center gap-2 mt-auto pt-2">
@@ -130,11 +130,11 @@ function renderTrending() {
                 <div class="p-4 flex flex-col flex-grow">
                     <h3 class="font-bold text-lg mb-1 line-clamp-1 text-gray-800">${item.title}</h3>
                     <div class="flex items-center gap-2 text-xs text-gray-500 mb-2">
-                        <span>👤 ${item.teacher}</span>
+                        <span> ${item.teacher}</span>
                     </div>
                     <p class="text-gray-500 text-xs line-clamp-2 mb-3 leading-relaxed">${item.desc}</p>
                     <div class="flex items-center gap-1 text-yellow-400 text-sm mb-3">
-                        ★★★★★ <span class="text-gray-400">(${item.students})</span>
+                         <span class="text-gray-400">(${item.students})</span>
                     </div>
                     <div class="flex items-center gap-2 mt-auto border-t pt-2 border-gray-50">
                         <span class="text-xl font-bold text-gray-900">$${item.price}</span>
@@ -193,7 +193,7 @@ function renderWebinars() {
                 <div class="p-4 flex flex-col flex-grow">
                     <h3 class="font-bold text-lg mb-1 leading-tight line-clamp-1">${item.title}</h3>
                     <div class="flex items-center gap-2 text-xs text-gray-500 mb-2">
-                        <span>👤 ${item.teacher}</span>
+                        <span> ${item.teacher}</span>
                     </div>
                     <p class="text-gray-500 text-xs line-clamp-2 mb-4 flex-grow">${item.desc}</p>
                     <div class="flex items-center gap-2 mt-auto">
